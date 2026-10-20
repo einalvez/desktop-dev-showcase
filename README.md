@@ -11,3 +11,7 @@ Desktop Software Developer with 3+ years in VB.NET/VB6.0 development and 7+ year
 
 ### 2. SQL Query & Stored Procedure Library
 * **Description:** Collection of optimized T-SQL scripts for database maintenance, data cleanup, and complex reporting.
+
+## 📁 Code Samples Included in this Repository:
+1. **/vbnet-sample-app**: Source code and UI for a Windows desktop utility built with VB.NET and WinForms.
+2. **/sql-database-scripts.sql**: Production-ready T-SQL stored procedures, triggers, and table schemas.

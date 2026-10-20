@@ -8,11 +8,6 @@ Desktop Software Developer with 3+ years in VB.NET/VB6.0 development and 7+ year
 * **Database:** MS SQL Server, Stored Procedures, Triggers, Views, Query Optimization
 * **Tools & OS:** Visual Studio, SQL Server Management Studio (SSMS), Windows Administration
 
-## 📁 Featured Projects & Source Code
-### 1. Medical Record & Clinic Desktop App (VB.NET + SQL Server)
-* **Description:** Standalone desktop application for patient records, scheduling, and billing.
-* **Key Features:** Fast DB search indexing, automated backup scripts, offline-first local cache.
-
 
 ### 2. SQL Query & Stored Procedure Library
 * **Description:** Collection of optimized T-SQL scripts for database maintenance, data cleanup, and complex reporting.
